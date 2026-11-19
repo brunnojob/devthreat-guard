@@ -1,0 +1,2 @@
+import {readFile} from 'node:fs/promises';import assert from 'node:assert/strict';import {scanText} from '../src/engine.mjs';
+for(const ext of ['js','py']) {const before=scanText(await readFile(`examples/before.${ext}`,'utf8'),`before.${ext}`);const after=scanText(await readFile(`examples/after.${ext}`,'utf8'),`after.${ext}`);assert.ok(before.length>0);assert.equal(after.length,0);console.log(`${ext}: ${before.length} findings before → ${after.length} after (fixture scope only)`);}

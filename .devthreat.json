@@ -1,0 +1,12 @@
+{
+  "exclude": [
+    "examples/before.js",
+    "examples/before.py",
+    "test",
+    "site",
+    "docs",
+    "scripts",
+    "src/engine.mjs",
+    "site-built"
+  ]
+}

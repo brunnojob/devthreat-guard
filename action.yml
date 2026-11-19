@@ -1,0 +1,25 @@
+name: DevThreat Guard Security Checks
+author: brunnojob
+description: Local-first explainable security pattern checks with severity gates and SARIF output. No code uploads.
+branding:
+  icon: shield
+  color: green
+inputs:
+  path:
+    description: Relative path inside the checked-out workspace
+    default: '.'
+  fail-on:
+    description: Minimum severity that fails the check (critical, high, medium, none)
+    default: high
+  format:
+    description: Report format (text, json, sarif, markdown)
+    default: text
+  output:
+    description: Optional report path inside the workspace (must not already exist)
+    default: ''
+outputs:
+  exit-code:
+    description: '0 passed; 1 findings exceeded threshold; 2 coverage or configuration error'
+runs:
+  using: node24
+  main: src/action.mjs

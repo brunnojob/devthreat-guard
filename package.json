@@ -1,0 +1,7 @@
+{
+  "name": "devthreat-guard", "version": "1.0.0", "type": "module", "private": true,
+  "description": "Local-first explainable security checks and secure coding labs",
+  "license": "MIT", "engines": {"node": ">=22"},
+  "bin": {"devthreat-guard": "bin/devthreat-guard.mjs"},
+  "scripts": {"test": "node --test", "build": "node scripts/build.mjs", "scan": "node bin/devthreat-guard.mjs .", "demo": "node scripts/demo.mjs"}
+}
