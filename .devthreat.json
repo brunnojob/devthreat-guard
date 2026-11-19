@@ -7,6 +7,7 @@
     "docs",
     "scripts",
     "src/engine.mjs",
-    "site-built"
+    "site-built",
+    "examples/simple-before.js"
   ]
 }
