@@ -17,6 +17,12 @@ Local-first security checks, reproducible secure coding labs, and a defense acad
 
 </div>
 
+## Live preview
+
+[![DevThreat Guard live browser demo: five findings in vulnerable JavaScript, then zero matching patterns in the manually corrected fixture](docs/assets/devthreat-guard-demo.gif)](https://brunnojob.github.io/devthreat-guard/#lab)
+
+*Captured from the live browser workbench. The fixed fixture uses manual corrections; zero findings applies only to these pattern checks. [Try it yourself](https://brunnojob.github.io/devthreat-guard/#lab).*
+
 Security reports often stop at an alert. Developers still need to understand the cause, choose a correction, and verify the behavior. DevThreat Guard connects these steps: **local pattern check → explanation and CWE → remediation guidance → regression test**.
 
 - **19 explainable checks** for selected JavaScript/TypeScript, Python, C/C++, Docker and GitHub Actions patterns.
