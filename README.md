@@ -33,6 +33,12 @@ Security reports often stop at an alert. Developers still need to understand the
 
 > This is a transparent heuristic scanner, not a general vulnerability detector, runtime firewall, CVE scanner or NIST certification. Zero findings means no matching patterns in checked files, not zero vulnerabilities. Findings require human review. There is no measured real-world precision or recall claim.
 
+## Simple demonstration
+
+Open the [comparison](https://brunnojob.github.io/devthreat-guard/#comparison) to see a short profile function with three review patterns: dynamic evaluation, interpolated SQL and HTML assignment. Load it into the workbench, inspect the three findings, then load the manually corrected version. The corrected example uses structured JSON, a numeric ID, bound SQL parameters and text rendering; its behavior is tested. Neither the workbench nor the comparison executes vulnerable source or applies repairs automatically.
+
+The file-import control and empty filename label follow the selected PT-BR/EN language. The operating system file dialog follows your browser/system language.
+
 ## Quick start
 
 Requires Node.js **22+** (Action uses Node 24). No npm install required.
