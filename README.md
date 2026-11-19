@@ -57,7 +57,7 @@ jobs:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
           persist-credentials: false
-      - uses: brunnojob/devthreat-guard@v1.0.0
+      - uses: brunnojob/devthreat-guard@166415c26c39fab99bf9ecf1413d6a66ef8ea59c
         with:
           path: .
           fail-on: high
