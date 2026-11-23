@@ -1,1 +1,1 @@
-Cycle #41: modbus register timeout (ref #100)
+Cycle #42: queue worker concurrency (ref #102)
