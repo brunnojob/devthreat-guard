@@ -1,1 +1,1 @@
-Cycle #71: diagnostic log formatting (ref #160)
+Cycle #72: diagnostic log formatting (ref #162)
