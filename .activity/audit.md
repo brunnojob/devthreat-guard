@@ -1,1 +1,1 @@
-Cycle #89: modbus register timeout (ref #196)
+Cycle #90: auth token rotation (ref #198)
