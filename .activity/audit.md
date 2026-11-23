@@ -1,1 +1,1 @@
-Cycle #60: modbus register timeout (ref #138)
+Cycle #61: modbus register timeout (ref #140)
