@@ -1,1 +1,1 @@
-Cycle #232: modbus register timeout (ref #483)
+Cycle #233: modbus register timeout (ref #485)
