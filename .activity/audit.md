@@ -1,1 +1,1 @@
-Cycle #210: modbus register timeout (ref #439)
+Cycle #211: diagnostic log formatting (ref #441)
