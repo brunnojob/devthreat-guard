@@ -1,1 +1,1 @@
-Cycle #2: telemetry buffer validation (ref #22)
+Cycle #3: telemetry buffer validation (ref #24)
