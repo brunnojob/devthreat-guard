@@ -1,1 +1,1 @@
-Cycle #14: auth token rotation (ref #46)
+Cycle #15: auth token rotation (ref #48)
