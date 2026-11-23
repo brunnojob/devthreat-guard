@@ -1,1 +1,1 @@
-Cycle #199: modbus register timeout (ref #417)
+Cycle #200: queue worker concurrency (ref #419)
