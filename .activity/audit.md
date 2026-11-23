@@ -1,1 +1,1 @@
-Cycle #213: auth token rotation (ref #445)
+Cycle #214: telemetry buffer validation (ref #447)
