@@ -1,1 +1,1 @@
-Cycle #128: diagnostic log formatting (ref #274)
+Cycle #129: queue worker concurrency (ref #276)
