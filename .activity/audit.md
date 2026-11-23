@@ -1,1 +1,1 @@
-Cycle #47: modbus register timeout (ref #112)
+Cycle #48: modbus register timeout (ref #114)
