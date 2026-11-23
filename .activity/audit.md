@@ -1,1 +1,1 @@
-Cycle #231: telemetry buffer validation (ref #481)
+Cycle #232: modbus register timeout (ref #483)
