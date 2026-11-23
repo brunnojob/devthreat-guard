@@ -1,1 +1,1 @@
-Cycle #106: telemetry buffer validation (ref #230)
+Cycle #107: queue worker concurrency (ref #232)
