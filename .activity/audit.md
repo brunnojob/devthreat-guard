@@ -1,1 +1,1 @@
-Cycle #88: telemetry buffer validation (ref #194)
+Cycle #89: modbus register timeout (ref #196)
