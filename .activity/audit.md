@@ -1,1 +1,1 @@
-Cycle #112: queue worker concurrency (ref #242)
+Cycle #113: queue worker concurrency (ref #244)
