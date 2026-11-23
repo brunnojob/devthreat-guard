@@ -1,1 +1,1 @@
-Cycle #120: auth token rotation (ref #258)
+Cycle #121: diagnostic log formatting (ref #260)
