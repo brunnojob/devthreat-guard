@@ -1,1 +1,1 @@
-Cycle #114: auth token rotation (ref #246)
+Cycle #115: queue worker concurrency (ref #248)
