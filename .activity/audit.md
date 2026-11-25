@@ -1,1 +1,1 @@
-Cycle #74: modbus register timeout (ref #667)
+Cycle #75: modbus register timeout (ref #669)
