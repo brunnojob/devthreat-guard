@@ -1,1 +1,1 @@
-Cycle #132: telemetry buffer validation (ref #783)
+Cycle #133: telemetry buffer validation (ref #785)
