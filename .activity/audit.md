@@ -1,1 +1,1 @@
-Cycle #141: diagnostic log formatting (ref #801)
+Cycle #142: modbus register timeout (ref #803)
