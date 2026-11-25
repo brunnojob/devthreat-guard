@@ -1,1 +1,1 @@
-Cycle #3: diagnostic log formatting (ref #525)
+Cycle #4: telemetry buffer validation (ref #527)
