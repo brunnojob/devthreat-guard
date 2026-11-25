@@ -1,1 +1,1 @@
-Cycle #39: diagnostic log formatting (ref #597)
+Cycle #40: modbus register timeout (ref #599)
