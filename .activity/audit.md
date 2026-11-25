@@ -1,1 +1,1 @@
-Cycle #112: modbus register timeout (ref #743)
+Cycle #113: modbus register timeout (ref #745)
